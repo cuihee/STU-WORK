@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hello_app_name</string>
+    <string name="hello">Hello</string>
+    <string name="hello_cuihe">Hello CUIHE</string>
+    <string name="hello_version">版本号0.1</string>
+    <string name="hello_input_name">这里输入你的名字</string>
+    <string name="hello_input_password">这里输入你的密码</string>
+    <string name="hello_input_password_number">这里输入你的数字密码</string>
+    <string name="hello_button_login">登陆</string>
+    <string name="hello_radiogroup_gender">性别</string>
+    <string name="hello_select_gender_male">男</string>
+    <string name="hello_select_gender_female">女</string>
+    <string name="hello_hobby_soccer">足球</string>
+    <string name="hello_hobby_basketball">篮球</string>
+    <string name="hello_button_save">保存</string>
+
+</resources>
