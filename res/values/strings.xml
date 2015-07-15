@@ -14,5 +14,6 @@
     <string name="hello_hobby_soccer">足球</string>
     <string name="hello_hobby_basketball">篮球</string>
     <string name="hello_button_save">保存</string>
+    <string name="hello_button_save_2">保存2</string>
 
 </resources>
